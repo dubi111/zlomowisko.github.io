@@ -1,0 +1,61 @@
+.naglowek {
+background-image: linear-gradient(red, grey);
+height: 250px;
+text-align: center;
+	}
+	
+.podstrony {
+background-color:grey;
+	height: 100px;
+	text-align: center;
+}
+
+.ofert {
+	border: 1px solid black;
+}
+
+.naglowek2 {
+background-image: linear-gradient(blue, grey);
+height: 250px;
+text-align: center;
+	}
+	
+.podstrony2 {
+background-color:gray;
+	height: 100px;
+	text-align: center;
+
+}
+
+.dodawanie{
+	border: 1px solid black;
+	border-width: 2px;
+	padding: 5px;
+
+}
+.oferty {
+	border: 1px solid black;
+	border-width: 2px;
+	padding: 5px;
+}
+.glowna {
+background-image: linear-gradient(grey, blue);
+text-align: center;
+height:500px;
+}
+.auto {
+background-color: grey;
+text-align: center;
+}
+.stopka {
+ background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%);
+ text-align:center;
+}
+.all {
+	width:100%;
+	height: 100%;
+}
+.inne {
+	background-color: #4D4DFF;
+text-align: center;
+}
